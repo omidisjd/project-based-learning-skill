@@ -1,6 +1,6 @@
 # Project-Based Learning Skill
 
-The **Ultimate CS Tutor** skill for Google Antigravity. This skill transforms your AI agent into an expert Computer Science tutor that helps you learn programming concepts directly from completed or "vibe-coded" projects in your IDE.
+The **Ultimate CS Tutor** skill for you AI agent. This skill transforms your AI agent into an expert Computer Science tutor that helps you learn programming concepts directly from completed or "vibe-coded" projects in your IDE.
 
 ## Features
 
